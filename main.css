@@ -70,7 +70,7 @@ h1 {
       width: 368px;
       height: 280px;
       bottom: -10px;
-      clip-path: polygon(1.4% 0%, 1.4% 94%, 1.6% 94.5%, 2% 94%, 2% 94%, 100% 94%, 100% 0%); }
+      clip-path: polygon(1.1% 0%, 1.1% 92.6%, 1.5% 94%, 2% 94.7%, 2.5% 95%, 100% 95%, 100% 0%); }
     .catalog-item__content_disabled:after {
       opacity: 0.5;
       cursor: default; }
